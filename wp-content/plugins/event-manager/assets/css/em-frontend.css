@@ -1,0 +1,20 @@
+.em-error {
+     color: #d00;
+     font-size: 0.95em;
+     display: inline-block;
+}
+
+.success-msg {
+     color: #080;
+     background: #eafbe7;
+     border: 1px solid #b2e1b2;
+     padding: 10px;
+     margin-bottom: 10px;
+}
+
+.error-msg {
+     color: #a00;
+     background: #fdeaea;
+     border: 1px solid #e1b2b2;
+     padding: 10px;
+     margin-bottom: 10px;}

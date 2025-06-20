@@ -1,0 +1,7470 @@
+[19-Jun-2025 08:46:11 UTC] Array
+(
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [m] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [paged] => 0
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+)
+
+[19-Jun-2025 08:46:31 UTC] Array
+(
+    [m] => 0
+    [s] => 
+    [paged] => 1
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [city] => 
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+    [tax_query] => Array
+        (
+            [0] => Array
+                (
+                    [taxonomy] => city
+                    [field] => term_id
+                    [terms] => Array
+                        (
+                            [0] => 5
+                        )
+
+                )
+
+        )
+
+)
+
+[19-Jun-2025 08:46:41 UTC] Array
+(
+    [m] => 0
+    [s] => 
+    [paged] => 1
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [city] => 
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+    [tax_query] => Array
+        (
+            [0] => Array
+                (
+                    [taxonomy] => city
+                    [field] => term_id
+                    [terms] => Array
+                        (
+                            [0] => 7
+                        )
+
+                )
+
+        )
+
+)
+
+[19-Jun-2025 08:46:44 UTC] Array
+(
+    [m] => 0
+    [s] => 
+    [paged] => 1
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [city] => 
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+    [meta_query] => Array
+        (
+            [0] => Array
+                (
+                    [key] => _em_event_type
+                    [value] => conference
+                    [compare] => =
+                )
+
+        )
+
+    [tax_query] => Array
+        (
+            [0] => Array
+                (
+                    [taxonomy] => city
+                    [field] => term_id
+                    [terms] => Array
+                        (
+                            [0] => 7
+                        )
+
+                )
+
+        )
+
+)
+
+[19-Jun-2025 08:46:49 UTC] Array
+(
+    [m] => 0
+    [paged] => 1
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [city] => 
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+    [meta_query] => Array
+        (
+            [0] => Array
+                (
+                    [key] => _em_event_type
+                    [value] => meetup
+                    [compare] => =
+                )
+
+        )
+
+    [tax_query] => Array
+        (
+            [0] => Array
+                (
+                    [taxonomy] => city
+                    [field] => term_id
+                    [terms] => Array
+                        (
+                            [0] => 5
+                        )
+
+                )
+
+        )
+
+)
+
+[19-Jun-2025 08:47:21 UTC] Array
+(
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [m] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [paged] => 0
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+)
+
+[19-Jun-2025 08:47:37 UTC] Array
+(
+    [m] => 0
+    [s] => 
+    [paged] => 1
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [city] => 0
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+    [meta_query] => Array
+        (
+            [0] => Array
+                (
+                    [key] => _em_duration_start
+                    [value] => 2025-06-22
+                    [compare] => >=
+                    [type] => DATE
+                )
+
+        )
+
+)
+
+[19-Jun-2025 08:47:41 UTC] Array
+(
+    [m] => 0
+    [s] => 
+    [paged] => 1
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [city] => 
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+    [meta_query] => Array
+        (
+            [0] => Array
+                (
+                    [key] => _em_duration_start
+                    [value] => 2025-06-22
+                    [compare] => >=
+                    [type] => DATE
+                )
+
+        )
+
+    [tax_query] => Array
+        (
+            [0] => Array
+                (
+                    [taxonomy] => city
+                    [field] => term_id
+                    [terms] => Array
+                        (
+                            [0] => 5
+                        )
+
+                )
+
+        )
+
+)
+
+[19-Jun-2025 08:47:48 UTC] Array
+(
+    [m] => 0
+    [paged] => 1
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [city] => 
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+    [meta_query] => Array
+        (
+            [0] => Array
+                (
+                    [key] => _em_duration_start
+                    [value] => 2025-06-21
+                    [compare] => >=
+                    [type] => DATE
+                )
+
+        )
+
+    [tax_query] => Array
+        (
+            [0] => Array
+                (
+                    [taxonomy] => city
+                    [field] => term_id
+                    [terms] => Array
+                        (
+                            [0] => 6
+                        )
+
+                )
+
+        )
+
+)
+
+[19-Jun-2025 08:47:51 UTC] Array
+(
+    [m] => 0
+    [paged] => 1
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [city] => 
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+    [meta_query] => Array
+        (
+            [0] => Array
+                (
+                    [key] => _em_duration_start
+                    [value] => 2025-06-20
+                    [compare] => >=
+                    [type] => DATE
+                )
+
+        )
+
+    [tax_query] => Array
+        (
+            [0] => Array
+                (
+                    [taxonomy] => city
+                    [field] => term_id
+                    [terms] => Array
+                        (
+                            [0] => 6
+                        )
+
+                )
+
+        )
+
+)
+
+[19-Jun-2025 08:49:55 UTC] Array
+(
+    [m] => 0
+    [paged] => 1
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [city] => 
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+    [meta_query] => Array
+        (
+            [0] => Array
+                (
+                    [key] => _em_duration_start
+                    [value] => 2025-06-20
+                    [compare] => >=
+                    [type] => DATE
+                )
+
+        )
+
+    [tax_query] => Array
+        (
+            [0] => Array
+                (
+                    [taxonomy] => city
+                    [field] => term_id
+                    [terms] => Array
+                        (
+                            [0] => 6
+                        )
+
+                )
+
+        )
+
+)
+
+[19-Jun-2025 08:51:17 UTC] Array
+(
+    [m] => 0
+    [paged] => 1
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [city] => 
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+    [meta_query] => Array
+        (
+            [0] => Array
+                (
+                    [key] => _em_duration_start
+                    [value] => 2025-06-20
+                    [compare] => >=
+                    [type] => DATE
+                )
+
+        )
+
+    [tax_query] => Array
+        (
+            [0] => Array
+                (
+                    [taxonomy] => city
+                    [field] => term_id
+                    [terms] => Array
+                        (
+                            [0] => 6
+                        )
+
+                )
+
+        )
+
+)
+
+[19-Jun-2025 08:51:21 UTC] Array
+(
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [m] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [paged] => 0
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+)
+
+[19-Jun-2025 08:51:32 UTC] Array
+(
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [m] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [paged] => 0
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+)
+
+[19-Jun-2025 08:51:34 UTC] Array
+(
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [m] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [paged] => 0
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+)
+
+[19-Jun-2025 08:51:38 UTC] Array
+(
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [m] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [paged] => 0
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+)
+
+[19-Jun-2025 08:51:41 UTC] Array
+(
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [m] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [paged] => 0
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+)
+
+[19-Jun-2025 08:51:41 UTC] Array
+(
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [m] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [paged] => 0
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+)
+
+[19-Jun-2025 08:51:43 UTC] Array
+(
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [m] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [paged] => 0
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+)
+
+[19-Jun-2025 08:53:35 UTC] Array
+(
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [m] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [paged] => 0
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+)
+
+[19-Jun-2025 09:03:48 UTC] Array
+(
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [m] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [paged] => 0
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+)
+
+[19-Jun-2025 09:45:15 UTC] Array
+(
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [m] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [paged] => 0
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+)
+
+[19-Jun-2025 09:47:30 UTC] Array
+(
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [m] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [paged] => 0
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+)
+
+[19-Jun-2025 09:47:56 UTC] Array
+(
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [m] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [paged] => 0
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+)
+
+[19-Jun-2025 09:52:10 UTC] PHP Warning:  Attempt to read property "title" on null in C:\wamp64\www\dynamic_dreamz_prctl\wp-includes\class-wp-customize-widgets.php on line 926
+[19-Jun-2025 09:52:10 UTC] PHP Stack trace:
+[19-Jun-2025 09:52:10 UTC] PHP   1. {main}() C:\wamp64\www\dynamic_dreamz_prctl\wp-admin\customize.php:0
+[19-Jun-2025 09:52:10 UTC] PHP   2. do_action($hook_name = 'customize_controls_print_footer_scripts') C:\wamp64\www\dynamic_dreamz_prctl\wp-admin\customize.php:306
+[19-Jun-2025 09:52:10 UTC] PHP   3. WP_Hook->do_action($args = [0 => '']) C:\wamp64\www\dynamic_dreamz_prctl\wp-includes\plugin.php:517
+[19-Jun-2025 09:52:10 UTC] PHP   4. WP_Hook->apply_filters($value = '', $args = [0 => '']) C:\wamp64\www\dynamic_dreamz_prctl\wp-includes\class-wp-hook.php:348
+[19-Jun-2025 09:52:10 UTC] PHP   5. WP_Customize_Widgets->output_widget_control_templates('') C:\wamp64\www\dynamic_dreamz_prctl\wp-includes\class-wp-hook.php:324
+[19-Jun-2025 10:11:26 UTC] Array
+(
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [m] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [paged] => 0
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+)
+
+[19-Jun-2025 10:11:58 UTC] Array
+(
+    [paged] => 1
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [m] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+)
+
+[19-Jun-2025 10:12:08 UTC] Array
+(
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [m] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [paged] => 0
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+)
+
+[19-Jun-2025 10:25:15 UTC] Array
+(
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [m] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [paged] => 0
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+)
+
+[19-Jun-2025 10:49:07 UTC] Array
+(
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [m] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [paged] => 0
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+)
+
+[19-Jun-2025 10:53:42 UTC] Array
+(
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [m] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [paged] => 0
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+)
+
+[19-Jun-2025 10:53:59 UTC] Array
+(
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [m] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [paged] => 0
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+)
+
+[19-Jun-2025 10:58:23 UTC] Array
+(
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [m] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [paged] => 0
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+)
+
+[19-Jun-2025 10:58:25 UTC] Array
+(
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [m] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [paged] => 0
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+)
+
+[19-Jun-2025 10:59:18 UTC] Array
+(
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [m] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [paged] => 0
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+)
+
+[19-Jun-2025 10:59:20 UTC] Array
+(
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [m] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [paged] => 0
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+)
+
+[19-Jun-2025 11:00:00 UTC] Array
+(
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [m] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [paged] => 0
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+)
+
+[19-Jun-2025 11:03:26 UTC] Array
+(
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [m] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [paged] => 0
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+)
+
+[19-Jun-2025 12:32:15 UTC] PHP Warning:  require_once(C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager/inc/event-rest-api.php): Failed to open stream: No such file or directory in C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager\event-manager.php on line 23
+[19-Jun-2025 12:32:15 UTC] PHP Stack trace:
+[19-Jun-2025 12:32:15 UTC] PHP   1. {main}() C:\wamp64\www\dynamic_dreamz_prctl\wp-admin\admin-ajax.php:0
+[19-Jun-2025 12:32:15 UTC] PHP   2. require_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-admin\admin-ajax.php:22
+[19-Jun-2025 12:32:15 UTC] PHP   3. require_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-load.php:50
+[19-Jun-2025 12:32:15 UTC] PHP   4. require_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-config.php:104
+[19-Jun-2025 12:32:15 UTC] PHP   5. include_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-settings.php:545
+[19-Jun-2025 12:32:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager/inc/event-rest-api.php' (include_path='.;C:\php\pear') in C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager\event-manager.php:23
+Stack trace:
+#0 C:\wamp64\www\dynamic_dreamz_prctl\wp-settings.php(545): include_once()
+#1 C:\wamp64\www\dynamic_dreamz_prctl\wp-config.php(104): require_once('C:\\wamp64\\www\\d...')
+#2 C:\wamp64\www\dynamic_dreamz_prctl\wp-load.php(50): require_once('C:\\wamp64\\www\\d...')
+#3 C:\wamp64\www\dynamic_dreamz_prctl\wp-admin\admin-ajax.php(22): require_once('C:\\wamp64\\www\\d...')
+#4 {main}
+  thrown in C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager\event-manager.php on line 23
+[19-Jun-2025 12:33:15 UTC] PHP Warning:  require_once(C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager/inc/event-rest-api.php): Failed to open stream: No such file or directory in C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager\event-manager.php on line 23
+[19-Jun-2025 12:33:15 UTC] PHP Stack trace:
+[19-Jun-2025 12:33:15 UTC] PHP   1. {main}() C:\wamp64\www\dynamic_dreamz_prctl\wp-admin\admin-ajax.php:0
+[19-Jun-2025 12:33:15 UTC] PHP   2. require_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-admin\admin-ajax.php:22
+[19-Jun-2025 12:33:15 UTC] PHP   3. require_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-load.php:50
+[19-Jun-2025 12:33:15 UTC] PHP   4. require_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-config.php:104
+[19-Jun-2025 12:33:15 UTC] PHP   5. include_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-settings.php:545
+[19-Jun-2025 12:33:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager/inc/event-rest-api.php' (include_path='.;C:\php\pear') in C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager\event-manager.php:23
+Stack trace:
+#0 C:\wamp64\www\dynamic_dreamz_prctl\wp-settings.php(545): include_once()
+#1 C:\wamp64\www\dynamic_dreamz_prctl\wp-config.php(104): require_once('C:\\wamp64\\www\\d...')
+#2 C:\wamp64\www\dynamic_dreamz_prctl\wp-load.php(50): require_once('C:\\wamp64\\www\\d...')
+#3 C:\wamp64\www\dynamic_dreamz_prctl\wp-admin\admin-ajax.php(22): require_once('C:\\wamp64\\www\\d...')
+#4 {main}
+  thrown in C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager\event-manager.php on line 23
+[19-Jun-2025 12:34:46 UTC] PHP Warning:  require_once(C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager/inc/event-rest-api.php): Failed to open stream: No such file or directory in C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager\event-manager.php on line 23
+[19-Jun-2025 12:34:46 UTC] PHP Stack trace:
+[19-Jun-2025 12:34:46 UTC] PHP   1. {main}() C:\wamp64\www\dynamic_dreamz_prctl\wp-admin\admin-ajax.php:0
+[19-Jun-2025 12:34:46 UTC] PHP   2. require_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-admin\admin-ajax.php:22
+[19-Jun-2025 12:34:46 UTC] PHP   3. require_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-load.php:50
+[19-Jun-2025 12:34:46 UTC] PHP   4. require_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-config.php:104
+[19-Jun-2025 12:34:46 UTC] PHP   5. include_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-settings.php:545
+[19-Jun-2025 12:34:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager/inc/event-rest-api.php' (include_path='.;C:\php\pear') in C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager\event-manager.php:23
+Stack trace:
+#0 C:\wamp64\www\dynamic_dreamz_prctl\wp-settings.php(545): include_once()
+#1 C:\wamp64\www\dynamic_dreamz_prctl\wp-config.php(104): require_once('C:\\wamp64\\www\\d...')
+#2 C:\wamp64\www\dynamic_dreamz_prctl\wp-load.php(50): require_once('C:\\wamp64\\www\\d...')
+#3 C:\wamp64\www\dynamic_dreamz_prctl\wp-admin\admin-ajax.php(22): require_once('C:\\wamp64\\www\\d...')
+#4 {main}
+  thrown in C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager\event-manager.php on line 23
+[19-Jun-2025 12:35:47 UTC] PHP Warning:  require_once(C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager/inc/event-rest-api.php): Failed to open stream: No such file or directory in C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager\event-manager.php on line 23
+[19-Jun-2025 12:35:47 UTC] PHP Stack trace:
+[19-Jun-2025 12:35:47 UTC] PHP   1. {main}() C:\wamp64\www\dynamic_dreamz_prctl\wp-admin\admin-ajax.php:0
+[19-Jun-2025 12:35:47 UTC] PHP   2. require_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-admin\admin-ajax.php:22
+[19-Jun-2025 12:35:47 UTC] PHP   3. require_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-load.php:50
+[19-Jun-2025 12:35:47 UTC] PHP   4. require_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-config.php:104
+[19-Jun-2025 12:35:47 UTC] PHP   5. include_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-settings.php:545
+[19-Jun-2025 12:35:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager/inc/event-rest-api.php' (include_path='.;C:\php\pear') in C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager\event-manager.php:23
+Stack trace:
+#0 C:\wamp64\www\dynamic_dreamz_prctl\wp-settings.php(545): include_once()
+#1 C:\wamp64\www\dynamic_dreamz_prctl\wp-config.php(104): require_once('C:\\wamp64\\www\\d...')
+#2 C:\wamp64\www\dynamic_dreamz_prctl\wp-load.php(50): require_once('C:\\wamp64\\www\\d...')
+#3 C:\wamp64\www\dynamic_dreamz_prctl\wp-admin\admin-ajax.php(22): require_once('C:\\wamp64\\www\\d...')
+#4 {main}
+  thrown in C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager\event-manager.php on line 23
+[19-Jun-2025 12:37:48 UTC] PHP Warning:  require_once(C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager/inc/event-rest-api.php): Failed to open stream: No such file or directory in C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager\event-manager.php on line 23
+[19-Jun-2025 12:37:48 UTC] PHP Stack trace:
+[19-Jun-2025 12:37:48 UTC] PHP   1. {main}() C:\wamp64\www\dynamic_dreamz_prctl\wp-admin\admin-ajax.php:0
+[19-Jun-2025 12:37:48 UTC] PHP   2. require_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-admin\admin-ajax.php:22
+[19-Jun-2025 12:37:48 UTC] PHP   3. require_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-load.php:50
+[19-Jun-2025 12:37:48 UTC] PHP   4. require_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-config.php:104
+[19-Jun-2025 12:37:48 UTC] PHP   5. include_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-settings.php:545
+[19-Jun-2025 12:37:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager/inc/event-rest-api.php' (include_path='.;C:\php\pear') in C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager\event-manager.php:23
+Stack trace:
+#0 C:\wamp64\www\dynamic_dreamz_prctl\wp-settings.php(545): include_once()
+#1 C:\wamp64\www\dynamic_dreamz_prctl\wp-config.php(104): require_once('C:\\wamp64\\www\\d...')
+#2 C:\wamp64\www\dynamic_dreamz_prctl\wp-load.php(50): require_once('C:\\wamp64\\www\\d...')
+#3 C:\wamp64\www\dynamic_dreamz_prctl\wp-admin\admin-ajax.php(22): require_once('C:\\wamp64\\www\\d...')
+#4 {main}
+  thrown in C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager\event-manager.php on line 23
+[19-Jun-2025 12:39:49 UTC] PHP Warning:  require_once(C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager/inc/event-rest-api.php): Failed to open stream: No such file or directory in C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager\event-manager.php on line 23
+[19-Jun-2025 12:39:49 UTC] PHP Stack trace:
+[19-Jun-2025 12:39:49 UTC] PHP   1. {main}() C:\wamp64\www\dynamic_dreamz_prctl\wp-admin\admin-ajax.php:0
+[19-Jun-2025 12:39:49 UTC] PHP   2. require_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-admin\admin-ajax.php:22
+[19-Jun-2025 12:39:49 UTC] PHP   3. require_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-load.php:50
+[19-Jun-2025 12:39:49 UTC] PHP   4. require_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-config.php:104
+[19-Jun-2025 12:39:49 UTC] PHP   5. include_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-settings.php:545
+[19-Jun-2025 12:39:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager/inc/event-rest-api.php' (include_path='.;C:\php\pear') in C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager\event-manager.php:23
+Stack trace:
+#0 C:\wamp64\www\dynamic_dreamz_prctl\wp-settings.php(545): include_once()
+#1 C:\wamp64\www\dynamic_dreamz_prctl\wp-config.php(104): require_once('C:\\wamp64\\www\\d...')
+#2 C:\wamp64\www\dynamic_dreamz_prctl\wp-load.php(50): require_once('C:\\wamp64\\www\\d...')
+#3 C:\wamp64\www\dynamic_dreamz_prctl\wp-admin\admin-ajax.php(22): require_once('C:\\wamp64\\www\\d...')
+#4 {main}
+  thrown in C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager\event-manager.php on line 23
+[19-Jun-2025 12:41:50 UTC] PHP Warning:  require_once(C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager/inc/event-rest-api.php): Failed to open stream: No such file or directory in C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager\event-manager.php on line 23
+[19-Jun-2025 12:41:50 UTC] PHP Stack trace:
+[19-Jun-2025 12:41:50 UTC] PHP   1. {main}() C:\wamp64\www\dynamic_dreamz_prctl\wp-admin\admin-ajax.php:0
+[19-Jun-2025 12:41:50 UTC] PHP   2. require_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-admin\admin-ajax.php:22
+[19-Jun-2025 12:41:50 UTC] PHP   3. require_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-load.php:50
+[19-Jun-2025 12:41:50 UTC] PHP   4. require_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-config.php:104
+[19-Jun-2025 12:41:50 UTC] PHP   5. include_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-settings.php:545
+[19-Jun-2025 12:41:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager/inc/event-rest-api.php' (include_path='.;C:\php\pear') in C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager\event-manager.php:23
+Stack trace:
+#0 C:\wamp64\www\dynamic_dreamz_prctl\wp-settings.php(545): include_once()
+#1 C:\wamp64\www\dynamic_dreamz_prctl\wp-config.php(104): require_once('C:\\wamp64\\www\\d...')
+#2 C:\wamp64\www\dynamic_dreamz_prctl\wp-load.php(50): require_once('C:\\wamp64\\www\\d...')
+#3 C:\wamp64\www\dynamic_dreamz_prctl\wp-admin\admin-ajax.php(22): require_once('C:\\wamp64\\www\\d...')
+#4 {main}
+  thrown in C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager\event-manager.php on line 23
+[19-Jun-2025 12:43:42 UTC] PHP Warning:  require_once(C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager/inc/event-rest-api.php): Failed to open stream: No such file or directory in C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager\event-manager.php on line 23
+[19-Jun-2025 12:43:42 UTC] PHP Stack trace:
+[19-Jun-2025 12:43:42 UTC] PHP   1. {main}() C:\wamp64\www\dynamic_dreamz_prctl\wp-admin\admin-ajax.php:0
+[19-Jun-2025 12:43:42 UTC] PHP   2. require_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-admin\admin-ajax.php:22
+[19-Jun-2025 12:43:42 UTC] PHP   3. require_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-load.php:50
+[19-Jun-2025 12:43:42 UTC] PHP   4. require_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-config.php:104
+[19-Jun-2025 12:43:42 UTC] PHP   5. include_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-settings.php:545
+[19-Jun-2025 12:43:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager/inc/event-rest-api.php' (include_path='.;C:\php\pear') in C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager\event-manager.php:23
+Stack trace:
+#0 C:\wamp64\www\dynamic_dreamz_prctl\wp-settings.php(545): include_once()
+#1 C:\wamp64\www\dynamic_dreamz_prctl\wp-config.php(104): require_once('C:\\wamp64\\www\\d...')
+#2 C:\wamp64\www\dynamic_dreamz_prctl\wp-load.php(50): require_once('C:\\wamp64\\www\\d...')
+#3 C:\wamp64\www\dynamic_dreamz_prctl\wp-admin\admin-ajax.php(22): require_once('C:\\wamp64\\www\\d...')
+#4 {main}
+  thrown in C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager\event-manager.php on line 23
+[19-Jun-2025 12:43:43 UTC] PHP Warning:  require_once(C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager/inc/event-rest-api.php): Failed to open stream: No such file or directory in C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager\event-manager.php on line 23
+[19-Jun-2025 12:43:43 UTC] PHP Stack trace:
+[19-Jun-2025 12:43:43 UTC] PHP   1. {main}() C:\wamp64\www\dynamic_dreamz_prctl\wp-admin\edit.php:0
+[19-Jun-2025 12:43:43 UTC] PHP   2. require_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-admin\edit.php:10
+[19-Jun-2025 12:43:43 UTC] PHP   3. require_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-admin\admin.php:35
+[19-Jun-2025 12:43:43 UTC] PHP   4. require_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-load.php:50
+[19-Jun-2025 12:43:43 UTC] PHP   5. require_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-config.php:104
+[19-Jun-2025 12:43:43 UTC] PHP   6. include_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-settings.php:545
+[19-Jun-2025 12:43:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager/inc/event-rest-api.php' (include_path='.;C:\php\pear') in C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager\event-manager.php:23
+Stack trace:
+#0 C:\wamp64\www\dynamic_dreamz_prctl\wp-settings.php(545): include_once()
+#1 C:\wamp64\www\dynamic_dreamz_prctl\wp-config.php(104): require_once('C:\\wamp64\\www\\d...')
+#2 C:\wamp64\www\dynamic_dreamz_prctl\wp-load.php(50): require_once('C:\\wamp64\\www\\d...')
+#3 C:\wamp64\www\dynamic_dreamz_prctl\wp-admin\admin.php(35): require_once('C:\\wamp64\\www\\d...')
+#4 C:\wamp64\www\dynamic_dreamz_prctl\wp-admin\edit.php(10): require_once('C:\\wamp64\\www\\d...')
+#5 {main}
+  thrown in C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager\event-manager.php on line 23
+[19-Jun-2025 12:43:47 UTC] PHP Warning:  require_once(C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager/inc/event-rest-api.php): Failed to open stream: No such file or directory in C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager\event-manager.php on line 23
+[19-Jun-2025 12:43:47 UTC] PHP Stack trace:
+[19-Jun-2025 12:43:47 UTC] PHP   1. {main}() C:\wamp64\www\dynamic_dreamz_prctl\wp-admin\edit.php:0
+[19-Jun-2025 12:43:47 UTC] PHP   2. require_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-admin\edit.php:10
+[19-Jun-2025 12:43:47 UTC] PHP   3. require_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-admin\admin.php:35
+[19-Jun-2025 12:43:47 UTC] PHP   4. require_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-load.php:50
+[19-Jun-2025 12:43:47 UTC] PHP   5. require_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-config.php:104
+[19-Jun-2025 12:43:47 UTC] PHP   6. include_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-settings.php:545
+[19-Jun-2025 12:43:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager/inc/event-rest-api.php' (include_path='.;C:\php\pear') in C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager\event-manager.php:23
+Stack trace:
+#0 C:\wamp64\www\dynamic_dreamz_prctl\wp-settings.php(545): include_once()
+#1 C:\wamp64\www\dynamic_dreamz_prctl\wp-config.php(104): require_once('C:\\wamp64\\www\\d...')
+#2 C:\wamp64\www\dynamic_dreamz_prctl\wp-load.php(50): require_once('C:\\wamp64\\www\\d...')
+#3 C:\wamp64\www\dynamic_dreamz_prctl\wp-admin\admin.php(35): require_once('C:\\wamp64\\www\\d...')
+#4 C:\wamp64\www\dynamic_dreamz_prctl\wp-admin\edit.php(10): require_once('C:\\wamp64\\www\\d...')
+#5 {main}
+  thrown in C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager\event-manager.php on line 23
+[19-Jun-2025 12:43:51 UTC] PHP Warning:  require_once(C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager/inc/event-rest-api.php): Failed to open stream: No such file or directory in C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager\event-manager.php on line 23
+[19-Jun-2025 12:43:51 UTC] PHP Stack trace:
+[19-Jun-2025 12:43:51 UTC] PHP   1. {main}() C:\wamp64\www\dynamic_dreamz_prctl\wp-admin\admin-ajax.php:0
+[19-Jun-2025 12:43:51 UTC] PHP   2. require_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-admin\admin-ajax.php:22
+[19-Jun-2025 12:43:51 UTC] PHP   3. require_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-load.php:50
+[19-Jun-2025 12:43:51 UTC] PHP   4. require_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-config.php:104
+[19-Jun-2025 12:43:51 UTC] PHP   5. include_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-settings.php:545
+[19-Jun-2025 12:43:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager/inc/event-rest-api.php' (include_path='.;C:\php\pear') in C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager\event-manager.php:23
+Stack trace:
+#0 C:\wamp64\www\dynamic_dreamz_prctl\wp-settings.php(545): include_once()
+#1 C:\wamp64\www\dynamic_dreamz_prctl\wp-config.php(104): require_once('C:\\wamp64\\www\\d...')
+#2 C:\wamp64\www\dynamic_dreamz_prctl\wp-load.php(50): require_once('C:\\wamp64\\www\\d...')
+#3 C:\wamp64\www\dynamic_dreamz_prctl\wp-admin\admin-ajax.php(22): require_once('C:\\wamp64\\www\\d...')
+#4 {main}
+  thrown in C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager\event-manager.php on line 23
+[19-Jun-2025 12:44:10 UTC] Array
+(
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [m] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [paged] => 0
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+)
+
+[19-Jun-2025 12:59:10 UTC] Array
+(
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [m] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [paged] => 0
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+)
+
+[19-Jun-2025 12:59:30 UTC] Array
+(
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [m] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [paged] => 0
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+)
+
+[19-Jun-2025 13:00:00 UTC] Array
+(
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [m] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [paged] => 0
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+)
+
+[19-Jun-2025 13:31:47 UTC] Array
+(
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [m] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [paged] => 0
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+)
+
+[19-Jun-2025 13:38:26 UTC] Array
+(
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [m] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [paged] => 0
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+)
+
+[19-Jun-2025 13:53:49 UTC] PHP Warning:  require_once(C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager/custom-status-admin.php): Failed to open stream: No such file or directory in C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager\event-manager.php on line 27
+[19-Jun-2025 13:53:49 UTC] PHP Stack trace:
+[19-Jun-2025 13:53:49 UTC] PHP   1. {main}() C:\wamp64\www\dynamic_dreamz_prctl\wp-admin\admin-ajax.php:0
+[19-Jun-2025 13:53:49 UTC] PHP   2. require_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-admin\admin-ajax.php:22
+[19-Jun-2025 13:53:49 UTC] PHP   3. require_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-load.php:50
+[19-Jun-2025 13:53:49 UTC] PHP   4. require_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-config.php:104
+[19-Jun-2025 13:53:49 UTC] PHP   5. include_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-settings.php:545
+[19-Jun-2025 13:53:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager/custom-status-admin.php' (include_path='.;C:\php\pear') in C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager\event-manager.php:27
+Stack trace:
+#0 C:\wamp64\www\dynamic_dreamz_prctl\wp-settings.php(545): include_once()
+#1 C:\wamp64\www\dynamic_dreamz_prctl\wp-config.php(104): require_once('C:\\wamp64\\www\\d...')
+#2 C:\wamp64\www\dynamic_dreamz_prctl\wp-load.php(50): require_once('C:\\wamp64\\www\\d...')
+#3 C:\wamp64\www\dynamic_dreamz_prctl\wp-admin\admin-ajax.php(22): require_once('C:\\wamp64\\www\\d...')
+#4 {main}
+  thrown in C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager\event-manager.php on line 27
+[19-Jun-2025 13:53:51 UTC] PHP Warning:  require_once(C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager/custom-status-admin.php): Failed to open stream: No such file or directory in C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager\event-manager.php on line 27
+[19-Jun-2025 13:53:51 UTC] PHP Stack trace:
+[19-Jun-2025 13:53:51 UTC] PHP   1. {main}() C:\wamp64\www\dynamic_dreamz_prctl\wp-admin\edit.php:0
+[19-Jun-2025 13:53:51 UTC] PHP   2. require_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-admin\edit.php:10
+[19-Jun-2025 13:53:51 UTC] PHP   3. require_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-admin\admin.php:35
+[19-Jun-2025 13:53:51 UTC] PHP   4. require_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-load.php:50
+[19-Jun-2025 13:53:51 UTC] PHP   5. require_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-config.php:104
+[19-Jun-2025 13:53:51 UTC] PHP   6. include_once() C:\wamp64\www\dynamic_dreamz_prctl\wp-settings.php:545
+[19-Jun-2025 13:53:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager/custom-status-admin.php' (include_path='.;C:\php\pear') in C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager\event-manager.php:27
+Stack trace:
+#0 C:\wamp64\www\dynamic_dreamz_prctl\wp-settings.php(545): include_once()
+#1 C:\wamp64\www\dynamic_dreamz_prctl\wp-config.php(104): require_once('C:\\wamp64\\www\\d...')
+#2 C:\wamp64\www\dynamic_dreamz_prctl\wp-load.php(50): require_once('C:\\wamp64\\www\\d...')
+#3 C:\wamp64\www\dynamic_dreamz_prctl\wp-admin\admin.php(35): require_once('C:\\wamp64\\www\\d...')
+#4 C:\wamp64\www\dynamic_dreamz_prctl\wp-admin\edit.php(10): require_once('C:\\wamp64\\www\\d...')
+#5 {main}
+  thrown in C:\wamp64\www\dynamic_dreamz_prctl\wp-content\plugins\event-manager\event-manager.php on line 27
+[19-Jun-2025 13:54:08 UTC] Array
+(
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [m] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [paged] => 0
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+)
+
+[19-Jun-2025 13:54:18 UTC] Array
+(
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [m] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [paged] => 0
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+)
+
+[19-Jun-2025 13:56:29 UTC] Array
+(
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [m] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [paged] => 0
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+)
+
+[19-Jun-2025 13:56:42 UTC] Array
+(
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => pending_review
+    [perm] => readable
+    [fields] => id=>parent
+    [error] => 
+    [m] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [paged] => 0
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+)
+
+[19-Jun-2025 13:57:30 UTC] Array
+(
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [m] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [paged] => 0
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+)
+
+[19-Jun-2025 13:59:12 UTC] Array
+(
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [m] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [paged] => 0
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+)
+
+[19-Jun-2025 13:59:14 UTC] Array
+(
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => pending_review
+    [perm] => readable
+    [fields] => id=>parent
+    [error] => 
+    [m] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [paged] => 0
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+)
+
+[19-Jun-2025 14:00:10 UTC] Array
+(
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [m] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [paged] => 0
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+)
+
+[20-Jun-2025 06:39:37 UTC] Automatic updates starting...
+[20-Jun-2025 06:39:37 UTC]   Automatic plugin updates starting...
+[20-Jun-2025 06:39:37 UTC]   Automatic plugin updates complete.
+[20-Jun-2025 06:39:38 UTC] Automatic updates complete.
+[20-Jun-2025 06:46:14 UTC] Array
+(
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [m] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [paged] => 0
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+)
+
+[20-Jun-2025 06:49:47 UTC] Array
+(
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [m] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [paged] => 0
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+)
+
+[20-Jun-2025 06:49:55 UTC] Array
+(
+    [m] => 0
+    [s] => 
+    [paged] => 1
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [city] => 
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+    [tax_query] => Array
+        (
+            [0] => Array
+                (
+                    [taxonomy] => city
+                    [field] => term_id
+                    [terms] => Array
+                        (
+                            [0] => 10
+                        )
+
+                    [include_children] => 
+                )
+
+        )
+
+)
+
+[20-Jun-2025 06:50:00 UTC] Array
+(
+    [m] => 0
+    [paged] => 1
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [city] => 
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+    [meta_query] => Array
+        (
+            [0] => Array
+                (
+                    [key] => _em_event_type
+                    [value] => meetup
+                    [compare] => =
+                )
+
+        )
+
+    [tax_query] => Array
+        (
+            [0] => Array
+                (
+                    [taxonomy] => city
+                    [field] => term_id
+                    [terms] => Array
+                        (
+                            [0] => 10
+                        )
+
+                    [include_children] => 
+                )
+
+        )
+
+)
+
+[20-Jun-2025 06:50:03 UTC] Array
+(
+    [m] => 0
+    [paged] => 1
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [city] => 
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+    [meta_query] => Array
+        (
+            [0] => Array
+                (
+                    [key] => _em_event_type
+                    [value] => meetup
+                    [compare] => =
+                )
+
+        )
+
+    [tax_query] => Array
+        (
+            [0] => Array
+                (
+                    [taxonomy] => city
+                    [field] => term_id
+                    [terms] => Array
+                        (
+                            [0] => 9
+                        )
+
+                    [include_children] => 
+                )
+
+        )
+
+)
+
+[20-Jun-2025 06:50:07 UTC] Array
+(
+    [m] => 0
+    [paged] => 1
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [city] => 
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [s] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+    [meta_query] => Array
+        (
+            [0] => Array
+                (
+                    [key] => _em_event_type
+                    [value] => conference
+                    [compare] => =
+                )
+
+        )
+
+    [tax_query] => Array
+        (
+            [0] => Array
+                (
+                    [taxonomy] => city
+                    [field] => term_id
+                    [terms] => Array
+                        (
+                            [0] => 9
+                        )
+
+                    [include_children] => 
+                )
+
+        )
+
+)
+
+[20-Jun-2025 06:50:12 UTC] Array
+(
+    [m] => 0
+    [s] => 
+    [paged] => 1
+    [order] => asc
+    [orderby] => menu_order title
+    [post_type] => event
+    [city] => 
+    [posts_per_page] => -1
+    [posts_per_archive_page] => -1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => future
+            [2] => draft
+            [3] => pending
+            [4] => private
+        )
+
+    [perm] => 
+    [fields] => id=>parent
+    [error] => 
+    [p] => 0
+    [post_parent] => 
+    [subpost] => 
+    [subpost_id] => 
+    [attachment] => 
+    [attachment_id] => 0
+    [name] => 
+    [pagename] => 
+    [page_id] => 0
+    [second] => 
+    [minute] => 
+    [hour] => 
+    [day] => 0
+    [monthnum] => 0
+    [year] => 0
+    [w] => 0
+    [category_name] => 
+    [tag] => 
+    [cat] => 
+    [tag_id] => 
+    [author] => 
+    [author_name] => 
+    [feed] => 
+    [tb] => 
+    [meta_key] => 
+    [meta_value] => 
+    [preview] => 
+    [sentence] => 
+    [title] => 
+    [menu_order] => 
+    [embed] => 
+    [category__in] => Array
+        (
+        )
+
+    [category__not_in] => Array
+        (
+        )
+
+    [category__and] => Array
+        (
+        )
+
+    [post__in] => Array
+        (
+        )
+
+    [post__not_in] => Array
+        (
+        )
+
+    [post_name__in] => Array
+        (
+        )
+
+    [tag__in] => Array
+        (
+        )
+
+    [tag__not_in] => Array
+        (
+        )
+
+    [tag__and] => Array
+        (
+        )
+
+    [tag_slug__in] => Array
+        (
+        )
+
+    [tag_slug__and] => Array
+        (
+        )
+
+    [post_parent__in] => Array
+        (
+        )
+
+    [post_parent__not_in] => Array
+        (
+        )
+
+    [author__in] => Array
+        (
+        )
+
+    [author__not_in] => Array
+        (
+        )
+
+    [search_columns] => Array
+        (
+        )
+
+    [meta_query] => Array
+        (
+            [0] => Array
+                (
+                    [key] => _em_event_type
+                    [value] => workshop
+                    [compare] => =
+                )
+
+        )
+
+    [tax_query] => Array
+        (
+            [0] => Array
+                (
+                    [taxonomy] => city
+                    [field] => term_id
+                    [terms] => Array
+                        (
+                            [0] => 9
+                        )
+
+                    [include_children] => 
+                )
+
+        )
+
+)
+
+[20-Jun-2025 07:50:00 UTC] Automatic updates starting...
+[20-Jun-2025 07:50:00 UTC]   Automatic plugin updates starting...
+[20-Jun-2025 07:50:00 UTC]   Automatic plugin updates complete.
+[20-Jun-2025 07:50:00 UTC] Automatic updates complete.

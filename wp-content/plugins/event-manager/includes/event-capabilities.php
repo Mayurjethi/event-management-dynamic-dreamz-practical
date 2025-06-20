@@ -2,6 +2,37 @@
 
 if (!defined('ABSPATH')) exit;
 
+function em_add_event_caps()
+{
+     $roles = ['administrator', 'editor'];
+     $caps = [
+          'edit_event',
+          'read_event',
+          'delete_event',
+          'edit_events',
+          'edit_others_events',
+          'publish_events',
+          'read_private_events',
+          'delete_events',
+          'delete_others_events',
+          'delete_private_events',
+          'delete_published_events',
+          'edit_private_events',
+          'edit_published_events',
+          'create_events',
+     ];
+     foreach ($roles as $role_name) {
+          $role = get_role($role_name);
+          if ($role) {
+               foreach ($caps as $cap) {
+                    $role->add_cap($cap);
+               }
+          }
+     }
+}
+register_activation_hook(EM_PLUGIN_DIR . 'event-manager.php', 'em_add_event_caps');
+add_action('admin_init', 'em_add_event_caps'); // Ensures caps exist (safe redundancy)
+
 function em_event_caps_list()
 {
      return [

@@ -104,6 +104,10 @@ Event Manager Role Access:
  Email: developer.testing07+event@gmail.com
  Password: admin@123
 
+Key URLs:
+
+Event Form: https://flippantaccount.s2-tastewp.com/event-form/
+Event Listing: https://flippantaccount.s2-tastewp.com/event-listing/
 ---
 
 ## Provided Files & Database

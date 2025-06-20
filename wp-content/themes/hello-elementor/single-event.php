@@ -163,9 +163,13 @@ if (have_posts()) : while (have_posts()) : the_post();
           <div class="single-event-wrap">
 
                <main class="single-event-main">
-                    <?php if ($photo): ?>
-                         <img src="<?php echo esc_url($photo); ?>" class="single-event-img" alt="<?php the_title_attribute(); ?>">
-                    <?php endif; ?>
+                    <?php
+                    if (has_post_thumbnail()) {
+                         the_post_thumbnail('large', ['class' => 'single-event-img', 'alt' => get_the_title()]);
+                    } elseif ($photo) {
+                         echo '<img src="' . esc_url($photo) . '" class="single-event-img" alt="' . esc_attr(get_the_title()) . '">';
+                    }
+                    ?>
 
                     <div class="single-event-title"><?php the_title(); ?></div>
 

@@ -30,7 +30,15 @@ class EM_Random_Event_Widget extends WP_Widget
                     $photo = get_post_meta(get_the_ID(), '_em_photo', true);
 
                     echo "<div class='em-widget-event-card'>";
-                    if ($photo) {
+                    // Show featured image first, then fallback to meta image
+                    if (has_post_thumbnail()) {
+                         echo "<a href='" . esc_url(get_permalink()) . "'>";
+                         the_post_thumbnail('thumbnail', [
+                              'class' => 'em-widget-event-thumb',
+                              'alt' => get_the_title()
+                         ]);
+                         echo "</a>";
+                    } elseif ($photo) {
                          echo "<a href='" . esc_url(get_permalink()) . "'><img src='" . esc_url($photo) . "' class='em-widget-event-thumb' alt='" . esc_attr(get_the_title()) . "'></a>";
                     }
                     echo "<div class='em-widget-event-info'>";

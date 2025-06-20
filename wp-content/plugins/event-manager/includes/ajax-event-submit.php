@@ -143,6 +143,22 @@ function em_handle_event_submission()
           $upload = wp_handle_upload($_FILES['em_photo'], ['test_form' => false]);
           if (!isset($upload['error']) && isset($upload['url'])) {
                update_post_meta($event_id, '_em_photo', esc_url_raw($upload['url']));
+
+               // Set as featured image (post thumbnail)
+               $filename = $upload['file'];
+               $wp_filetype = wp_check_filetype($filename, null);
+               $attachment = [
+                    'post_mime_type' => $wp_filetype['type'],
+                    'post_title'     => sanitize_file_name(basename($filename)),
+                    'post_content'   => '',
+                    'post_status'    => 'inherit'
+               ];
+               $attach_id = wp_insert_attachment($attachment, $filename, $event_id);
+               require_once(ABSPATH . 'wp-admin/includes/image.php');
+               $attach_data = wp_generate_attachment_metadata($attach_id, $filename);
+               wp_update_attachment_metadata($attach_id, $attach_data);
+
+               set_post_thumbnail($event_id, $attach_id);
           }
      }
 

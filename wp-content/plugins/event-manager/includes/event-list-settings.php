@@ -4,7 +4,7 @@ add_action('admin_menu', function () {
           'edit.php?post_type=event',
           'Event List Shortcode Settings',
           'Shortcode Settings',
-          'manage_options',
+          'manage_event_settings', // <-- FIXED: now uses the correct capability
           'event-list-settings',
           'myplugin_event_list_settings_page'
      );

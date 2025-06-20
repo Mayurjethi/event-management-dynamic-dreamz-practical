@@ -1,11 +1,47 @@
 <?php
-
 if (!defined('ABSPATH')) exit;
 
+/**
+ * Add the custom "Event Manager" role.
+ */
+function em_add_custom_roles()
+{
+     add_role(
+          'event_manager',
+          'Event Manager',
+          [
+               'read' => true,
+               'edit_events' => true,
+               'edit_others_events' => true,
+               'publish_events' => true,
+               'read_private_events' => true,
+               'delete_events' => true,
+               'delete_others_events' => true,
+               'delete_private_events' => true,
+               'delete_published_events' => true,
+               'edit_private_events' => true,
+               'edit_published_events' => true,
+               'create_events' => true,
+               'manage_event_settings' => true, // << new!
+          ]
+     );
+}
+
+/**
+ * Remove the custom "Event Manager" role.
+ */
+function em_remove_custom_roles()
+{
+     remove_role('event_manager');
+}
+
+/**
+ * Add event and city taxonomy capabilities, plus settings capability.
+ */
 function em_add_event_caps()
 {
-     $roles = ['administrator', 'editor'];
-     $caps = [
+     $roles = ['administrator', 'editor', 'event_manager'];
+     $post_caps = [
           'edit_event',
           'read_event',
           'delete_event',
@@ -21,21 +57,39 @@ function em_add_event_caps()
           'edit_published_events',
           'create_events',
      ];
+     // City taxonomy caps (using custom taxonomy caps, see taxonomies.php)
+     $tax_caps = [
+          'manage_event_cities',
+          'edit_event_cities',
+          'delete_event_cities',
+          'assign_event_cities',
+     ];
+     $settings_caps = [
+          'manage_event_settings',
+     ];
      foreach ($roles as $role_name) {
           $role = get_role($role_name);
           if ($role) {
-               foreach ($caps as $cap) {
+               foreach ($post_caps as $cap) {
+                    $role->add_cap($cap);
+               }
+               foreach ($tax_caps as $cap) {
+                    $role->add_cap($cap);
+               }
+               foreach ($settings_caps as $cap) {
                     $role->add_cap($cap);
                }
           }
      }
 }
-register_activation_hook(EM_PLUGIN_DIR . 'event-manager.php', 'em_add_event_caps');
-add_action('admin_init', 'em_add_event_caps'); // Ensures caps exist (safe redundancy)
 
-function em_event_caps_list()
+/**
+ * Remove event and city taxonomy capabilities.
+ */
+function em_remove_event_caps()
 {
-     return [
+     $roles = ['administrator', 'editor', 'event_manager'];
+     $post_caps = [
           'edit_event',
           'read_event',
           'delete_event',
@@ -51,58 +105,40 @@ function em_event_caps_list()
           'edit_published_events',
           'create_events',
      ];
-}
-
-function em_add_event_manager_role()
-{
-
-     $event_tax_caps = [
-          'manage_cities',
-          'edit_cities',
-          'delete_cities',
-          'assign_cities',
+     $tax_caps = [
+          'manage_event_cities',
+          'edit_event_cities',
+          'delete_event_cities',
+          'assign_event_cities',
      ];
-     $role = get_role('event_manager');
-     if ($role) {
-          foreach ($event_tax_caps as $cap) {
-               $role->add_cap($cap);
-          }
-     }
-     $admin = get_role('administrator');
-     if ($admin) {
-          foreach ($event_tax_caps as $cap) {
-               $admin->add_cap($cap);
-          }
-     }
-}
-add_action('init', 'em_add_event_manager_role');
-
-function em_limit_admin_menu()
-{
-     if (current_user_can('event_manager') && !current_user_can('administrator')) {
-          global $menu;
-          // List of allowed menu slugs for Event Manager
-          $allowed = ['edit.php?post_type=event', 'index.php', 'profile.php'];
-          foreach ($menu as $k => $item) {
-               if (!in_array($item[2], $allowed)) {
-                    unset($menu[$k]);
+     $settings_caps = [
+          'manage_event_settings',
+     ];
+     foreach ($roles as $role_name) {
+          $role = get_role($role_name);
+          if ($role) {
+               foreach ($post_caps as $cap) {
+                    $role->remove_cap($cap);
+               }
+               foreach ($tax_caps as $cap) {
+                    $role->remove_cap($cap);
+               }
+               foreach ($settings_caps as $cap) {
+                    $role->remove_cap($cap);
                }
           }
      }
 }
-add_action('admin_menu', 'em_limit_admin_menu', 999);
 
-// 4. (Optional/Best Practice) Clean up on plugin deactivation
-function em_remove_event_manager_role()
-{
-     // Remove role (uncomment if you want to fully remove on deactivate)
-     // remove_role('event_manager');
-     // Remove event caps from admin (optional)
-     // $admin = get_role('administrator');
-     // if ($admin) {
-     //     foreach (em_event_caps_list() as $cap) {
-     //         $admin->remove_cap($cap);
-     //     }
-     // }
-}
-// register_deactivation_hook(__FILE__, 'em_remove_event_manager_role');
+// Hook role and caps creation/removal to plugin activation/deactivation
+register_activation_hook(EM_PLUGIN_DIR . 'event-manager.php', function () {
+     em_add_custom_roles();
+     em_add_event_caps();
+});
+register_deactivation_hook(EM_PLUGIN_DIR . 'event-manager.php', function () {
+     em_remove_event_caps();
+     em_remove_custom_roles();
+});
+
+// Also ensure capabilities are always present (safety)
+add_action('admin_init', 'em_add_event_caps');

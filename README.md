@@ -92,6 +92,18 @@ and sidebar.
 
 A test site will be provisioned at [https://tastewp.com/](https://tastewp.com/) and shared here for preview and testing.
 
+Live Demo:
+https://flippantaccount.s2-tastewp.com
+
+Admin Access:
+ Username: admin
+ Password: JSIB3KnOidU
+
+Event Manager Role Access:
+ Username: Event Manager
+ Email: developer.testing07+event@gmail.com
+ Password: admin@123
+
 ---
 
 ## Provided Files & Database
